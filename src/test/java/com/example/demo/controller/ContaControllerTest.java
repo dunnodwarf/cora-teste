@@ -1,8 +1,8 @@
 package com.example.demo.controller;
 
-import com.example.demo.repository.Conta;
+import com.example.demo.controller.dto.ContaRequest;
+import com.example.demo.service.Conta;
 import com.example.demo.service.ContaService;
-import jakarta.servlet.ServletException;
 import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentCaptor;
 import org.springframework.beans.factory.annotation.Autowired;

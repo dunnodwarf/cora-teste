@@ -1,6 +1,5 @@
 package com.example.demo.service;
 
-import com.example.demo.repository.Conta;
 import com.example.demo.repository.ContaRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,6 +1,7 @@
 package com.example.demo.controller;
 
-import com.example.demo.repository.Conta;
+import com.example.demo.controller.dto.ContaRequest;
+import com.example.demo.service.Conta;
 import com.example.demo.service.ContaService;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
